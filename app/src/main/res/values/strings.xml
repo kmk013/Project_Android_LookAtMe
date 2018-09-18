@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Isihara2</string>
+    <string name="action_settings">Settings</string>
+    <string name="question">다음은?</string>
+    <string name="result1">당신은</string>
+    <string name="result2">입니다.</string>
+    <string name="none">정상인</string>
+    <string name="mang">적록색맹</string>
+    <string name="aik">적록색약</string>
+    <string name="all">전색맹</string>
+</resources>
